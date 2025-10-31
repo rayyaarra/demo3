@@ -20,6 +20,7 @@ public class MainApp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("=== Sistem Menghitung BMI ===");
+        System.out.println("Halo");
 
         double berat = mintaInput(sc, "Masukkan berat badan (kg): ");
         double tinggi = mintaInput(sc, "Masukkan tinggi badan (m): ");

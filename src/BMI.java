@@ -19,5 +19,6 @@ public class BMI {
 
         System.out.println("BMI Anda: " + String.format("%.2f", nilaiBMI));
         System.out.println("Kategori: " + kategori);
+
     }
 }
